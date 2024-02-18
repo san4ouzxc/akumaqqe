@@ -3,5 +3,5 @@
 using namespace std;
 
 int main() {
-    cout << "pivlar mode" << endl;
+    cout << "pivlar mode abc 228" << endl;
 }
