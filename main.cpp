@@ -3,5 +3,5 @@
 using namespace std;
 
 int main() {
-    cout << "Rinlar mode tryhard" << endl;
+    cout << "Rinlar mode666 tryhard" << endl;
 }
